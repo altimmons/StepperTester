@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "StepperTester",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"C_Cpp.default.intelliSenseMode": "gcc-x64",
+		"C_Cpp.intelliSenseEngineFallback": "Enabled"
+	}
+}
